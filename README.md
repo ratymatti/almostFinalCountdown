@@ -29,6 +29,8 @@ This is a simple React application that challenges you to stop a timer as close 
 
 To run the project, use the dev script defined in the package.json file:
 
-```npm run dev```
+```
+npm run dev
+```
 
 This will start a development server, and you can open the application in your web browser at http://localhost:5173/
