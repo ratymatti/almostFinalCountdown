@@ -16,7 +16,8 @@ This is a simple React application that challenges you to stop a timer as close 
 │   │   └── TimerChallenge.jsx
 │   ├── index.css
 │   └── main.jsx
-└── vite.config.js```
+└── vite.config.js
+```
 
 ## Running the project 
 
