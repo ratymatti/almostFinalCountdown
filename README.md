@@ -1,4 +1,4 @@
-# The Almost Final Countdown
+# (almost) Final Countdown
 
 This is a simple React application that challenges you to stop a timer as close as possible to a target time. The closer you are to the target time, the higher your score.
 
