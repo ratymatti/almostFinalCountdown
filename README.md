@@ -19,6 +19,12 @@ This is a simple React application that challenges you to stop a timer as close 
 └── vite.config.js
 ```
 
+## Key Components
+
+- `Player.jsx`: This component represents a player in the game.
+- `ResultModal.jsx`: This component displays the result of the game in a modal dialog.
+- `TimerChallenge.jsx`: This component implements the main game logic.
+
 ## Running the project 
 
 To run the project, use the dev script defined in the package.json file:
